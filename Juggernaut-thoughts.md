@@ -1,4 +1,4 @@
-Hello JTS team,
+Hello JTS team!
 
 I started using the JuggernautAI app a couple weeks ago and wanted to share my thoughts on it so far. I couldn't find a way to send a long letter privately to you, so I've opted to just create this file and send you a link :)
 
